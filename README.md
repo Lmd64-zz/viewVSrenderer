@@ -11,5 +11,5 @@ This demo app shows the tiling-based performance issues when using MKOverlayRend
 2. Panning with a single finger will increase/reduce the size of the MKCircle’s radius, removing the old overlay & adding a new one as the distance from the MKCircle’s center.
 3. Tapping the button will toggle between displaying the overlay with a MKOverlayView and with a MKOverlayRenderer.
 
-# Results
+## Results
 Panning quickly/scrubbing when using the MKOverlayRender has noticeable tiling-based redrawing issues. Manipulating the layer-backed MKOverlayView has noticeably better performance, particularly at large zoom levels.
