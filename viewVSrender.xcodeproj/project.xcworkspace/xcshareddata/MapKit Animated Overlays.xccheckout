@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>462F2C53-0417-46C9-BCEA-28F8AB2A573E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapKit Animated Overlays</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E741E0DF-8A68-4067-86D6-B79C25A2D36E</key>
+		<string>https://bitbucket.org/Lmd64/testmapkitoverlays.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapKit Animated Overlays.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E741E0DF-8A68-4067-86D6-B79C25A2D36E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Lmd64/testmapkitoverlays.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E741E0DF-8A68-4067-86D6-B79C25A2D36E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E741E0DF-8A68-4067-86D6-B79C25A2D36E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestMapkitOverlays</string>
+		</dict>
+	</array>
+</dict>
+</plist>
