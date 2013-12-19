@@ -1,5 +1,4 @@
 # viewVSrenderer
-==============
 
 Demo iOS application to compare performance of Mapkit's MKOverlayView VS MKOverlayRenderer.
 
